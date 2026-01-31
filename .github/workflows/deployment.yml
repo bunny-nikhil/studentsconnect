@@ -5,7 +5,7 @@ on:
     branches: [ "main" ]
 
 env:
-  AWS_REGION: n-verginia
+  AWS_REGION: us-east-1
   S3_BUCKET: "bunnychacha"
 
 permissions:
